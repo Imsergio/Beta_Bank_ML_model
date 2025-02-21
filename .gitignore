@@ -17,6 +17,8 @@ eggs/
 lib/
 Scripts/
 Include/
+Data/
+share/
 *.cfg
 lib64/
 parts/
